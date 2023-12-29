@@ -3,7 +3,8 @@
 ## Overview
 This repository contains code for a Google Chatbot integration, designed to interact with users in Google Chat spaces. It includes handling events such as adding the bot to a space, removing it, processing messages, and responding to card clicks. The bot is built using Python and integrates with various services like OpenAI's GPT, Google Cloud Secret Manager, and BigQuery.
 
-![image](https://github.com/CWebkas/helpyourself_bot/assets/30929659/de904107-0486-4ab3-a5c0-9dc66b857eb4)
+![image](https://github.com/CWebkas/helpyourself_bot/assets/30929659/9f91eb6d-1afa-4745-bc35-8f93c8046242)
+
 
 
 ## Features
